@@ -21,3 +21,24 @@
 因资源不同，弹幕与视频的时间可能不匹配，故增加时间轴  
 - TV：设置->弹幕设置->可调整正负600秒
 - 手机：弹幕设置弹窗->可调整正负600秒(可能需要退出视频，重新进入，没有测试过)
+## 三、弹幕json文件介绍
+```
+[{"name":"玫瑰的故事","url":"https://raw.githubusercontent.com/SingerLan/danmuku/main/玫瑰的故事"},
+[{"name":"谍影重重","url":"https://raw.githubusercontent.com/SingerLan/danmuku/main/谍影重重/谍影重重.xml"}]]
+```
+$\color{red} {注意:剧集的url是文件夹地址，电影的url是文件地址} $
+$\color{orange} {注意:剧集文件夹内的文件名必须：E01.xml，E02.xml，E03.xml...} $
+$\color{blue} {注意:剧集电影的文件夹或电影的文件名必须与播放的剧集电影相同，否则无法正确匹配} $
+
+## 四、问题说明
+
+### 4.1 为什么在2.3.4基础上修改？
+  OK一直不更新release代码，2.3.7个人感觉播放器解码有点问题。催ok大佬更新
+
+### 4.2 为什么修改自定义背景api？
+  想用自己的图片，自己还没有服务器，随机图片只能这么写了，下面是我用的api地址
+  > https://raw.githubusercontent.com/SingerLan/json/master/random.png
+  random是固定的
+  自己做格式为：https://*****/random.png
+  $\color{red} {注意:不想使用只能推送壁纸，填其它格式的地址无效} $
+  
