@@ -60,7 +60,11 @@ $\color{blue} {注意:剧集电影的文件夹或电影的"name"必须与播放�
   除以上其它内容开放，
 
 ## 七、下载
+TV：  
 https://wwz.lanzouo.com/iakPM2272ugf  
-密码:8fqt
+密码:8fqt  
+手机：  
+https://wwz.lanzouo.com/iF9t42278g0b  
+密码:b03e  
 ## 八、鸣谢
   弹幕爱好者们
