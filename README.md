@@ -53,6 +53,7 @@ $\color{blue} {注意:剧集电影的文件夹或电影的"name"必须与播放�
 - 关注Ok公众号，获取OK接口，资源丰富。
 - 可直接使用我已经配好的“弹幕json文件”，但个人采集的弹幕有限，“弹幕json文件”里没有的资源可以等我采集，也可以大家采集好发我，我把弹幕部署上
 > 地址：https://raw.githubusercontent.com/SingerLan/danmuku/main/home.json
+>  $\color{red} {新} $国内地址：https://raw.gitcode.com/baidu_38752858/danmuku/raw/main/home.json
 - 支持本地文件：file://
 ## 六、收费
   本人搜集、收藏B站下架视频弹幕1G以上，韩剧弹幕500M以上，如需要可联系作者（付费）。
