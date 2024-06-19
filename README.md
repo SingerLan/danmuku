@@ -59,9 +59,7 @@ $\color{blue} {注意:剧集电影的文件夹或电影的"name"必须与播放�
   除以上其它内容开放，
 
 ## 七、下载
-https://wwz.lanzouo.com/ij5sQ226mhoj  
-密码:bcb1  
-https://wwz.lanzouo.com/iIrtf226mkfi  
-密码:4tz1  
+https://wwz.lanzouo.com/iakPM2272ugf  
+密码:8fqt
 ## 八、鸣谢
   弹幕爱好者们
