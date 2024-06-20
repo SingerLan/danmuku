@@ -68,8 +68,8 @@ v0.2版本 ~~更新代码后看情况修改~~
 
 ## 七、下载
 TV：  
-https://wwz.lanzouo.com/ilRVW22a0i3g
-密码:h5xc  
+https://wwz.lanzouo.com/iQPuX22a568j
+密码:du1b   
 手机：  
 release下载
 ## 八、鸣谢
