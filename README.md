@@ -1,6 +1,6 @@
 >问题或建议，请加QQ群留言。**199580494**
 
-**不看弹幕的请绕行，国内地址更新比较频繁：https://gitcode.com/baidu_38752858/danmuku/overview**
+**不看弹幕的请绕行，国内地址更新比较频繁：https://gitcode.com/baidu_38752858/danmuku/overview**  
 请阅读下方文本熟悉使用方法。
 ## 一、简介
 - 支持自定义弹幕
