@@ -87,6 +87,18 @@ v0.2版本 ~~更新代码后看情况修改~~
 
 ## 七、下载
 https://gitcode.com/baidu_38752858/danmuku/releases
+leanback-java-arm64_v8a_v0.0.8.apk   
+https://wwz.lanzouo.com/iTaBO23kox2f  
+密码:1mvb  
+leanback-java-armeabi_v7a_0.0.8.apk  
+https://wwz.lanzouo.com/iuoCG23kp1eb  
+密码:43i0  
+leanback-java-x86_0.0.8.apk  
+https://wwz.lanzouo.com/iYxCo23kp32b  
+密码:f7fy  
+mobile-java-arm64_v8a_0.0.8.apk  
+https://wwz.lanzouo.com/iHW5w23kp5of  
+密码:h91p  
 
 ## 八、鸣谢
   弹幕爱好者们
