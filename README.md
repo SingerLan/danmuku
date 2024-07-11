@@ -78,7 +78,7 @@ v0.2版本 ~~更新代码后看情况修改~~
 - 可直接使用我已经配好的“弹幕json文件”，但个人采集的弹幕有限，“弹幕json文件”里没有的资源可以等我采集，也可以大家采集好发我，我把弹幕部署上
 > 示例地址：https://raw.githubusercontent.com/SingerLan/danmuku/main/home.json  
 >  <span style="color: red">新</span>弹幕国内地址：https://raw.gitcode.com/baidu_38752858/danmuku/raw/main/home.json  
->  <span style="color: red">新</span>弹幕地址：https://raw.githubusercontent.com/SingerLan/danmuku_backups/main/home.json
+>  <span style="color: red">新</span>弹幕地址：https://raw.githubusercontent.com/SingerLan/danmuku_backups/main/home.json  
 >  上述地址先在浏览器访问成功后再进行配置
 - 支持本地文件：file://
 ## 六、收费
